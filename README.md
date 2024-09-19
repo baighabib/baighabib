@@ -1,3 +1,5 @@
+https://www.adgility.com.au/hs-fs/hubfs/advanced-insights-analystics-reporting-GIF.gif?width=1780&height=1080&name=advanced-insights-analystics-reporting-GIF.gif
+
 ## Hi 👋, I'm Habib Ullah Baig 
 
 As a dedicated graduate student in Business Analytics, I'm thrilled to welcome you to my GitHub realm—a place where raw data transforms into captivating narratives. 
