@@ -1,4 +1,4 @@
-https://www.adgility.com.au/hs-fs/hubfs/advanced-insights-analystics-reporting-GIF.gif?width=1780&height=1080&name=advanced-insights-analystics-reporting-GIF.gif
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[https://github-profile-trophy.vercel.app/?username=geetharagiphani](https://www.adgility.com.au/hs-fs/hubfs/advanced-insights-analystics-reporting-GIF.gif?width=1780&height=1080&name=advanced-insights-analystics-reporting-GIF.gif)" </p>
 
 ## Hi 👋, I'm Habib Ullah Baig 
 
