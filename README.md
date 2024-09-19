@@ -6,6 +6,7 @@ As a dedicated graduate student in Business Analytics, I'm thrilled to welcome y
 - 🌱 I’m currently learning GenAI in Business Analytics
 - 💞️ I’m looking to collaborate on projects related to data-driven decision-making or data visualization.
 
+
 <!--
 **baighabib/baighabib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,4 +20,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+## My Skillset
+
+## Connect with me
+
 -->
