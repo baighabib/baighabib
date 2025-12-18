@@ -1,7 +1,7 @@
 
 ## Hi 👋, I'm Habib Ullah Baig 
 
-As a dedicated graduate student in Business Analytics, I'm thrilled to welcome you to my GitHub realm—a place where raw data transforms into captivating narratives. 
+As a dedicated graduate in Business Analytics, I'm thrilled to welcome you to my GitHub realm—a place where raw data transforms into captivating narratives. 
 
 - 🔭 I’m currently working on developing an end-to-end analytics solution for a local business, focusing on predictive modeling and data visualization to improve customer retention strategies.
 - 🌱 I’m currently learning GenAI in Business Analytics
